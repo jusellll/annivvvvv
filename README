@@ -1,0 +1,44 @@
+# Anniversary Group Website 🎉
+
+Website ini dibuat untuk merayakan anniversary sebuah grup dengan tampilan modern, interaktif, dan bergaya Gen Z.
+
+## 🔥 Fitur
+- Hero section dengan animasi dan pesan perayaan
+- Countdown ke tanggal anniversary
+- Galeri kenangan dari grup
+- Pesan-pesan dari anggota
+- Desain responsif dan penuh warna
+
+## 📁 Struktur File
+```
+├── index.html       # Halaman utama
+├── styles.css       # Styling dengan warna pastel dan animasi
+├── script.js        # Countdown interaktif
+└── README.md        # Dokumentasi ini
+```
+
+## 🧑‍💻 Cara Menjalankan (di Visual Studio Code)
+1. Buka folder project ini di VS Code.
+2. Gunakan ekstensi Live Server atau buka `index.html` langsung di browser.
+
+## 🚀 Upload ke GitHub Pages
+1. Buat repositori baru di GitHub.
+2. Upload semua file ke repositori tersebut.
+3. Masuk ke **Settings > Pages** di repo GitHub.
+4. Di bagian **Source**, pilih `main` dan folder `/root`.
+5. Klik Save, dan website akan tersedia di:
+   ```
+   https://username.github.io/nama-repo
+   ```
+
+## 🎨 Teknologi yang Digunakan
+- HTML5, CSS3
+- Vanilla JavaScript
+- Google Fonts (Pacifico & Roboto)
+- Unsplash API (gambar random galeri)
+
+## 📝 Credit
+Website dibuat oleh [Nama Kamu], untuk merayakan kebersamaan yang berharga ❤️
+
+---
+Selamat merayakan! 🎊
